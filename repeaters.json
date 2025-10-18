@@ -1,0 +1,23 @@
+{
+    "rptrs": [
+        {
+            "locator": 21431,
+            "id": 21431,
+            "status": "ACTIVE",
+            "callsign": "arf20-piso",
+            "city": "Barcelona",
+            "state": null,
+            "country": "Spain",
+            "frequency": "430.40000",
+            "color_code": 1,
+            "offset": "9.400",
+            "assigned": null,
+            "ts_linked": "TS1 TS2",
+            "trustee": "arf20",
+            "map_info": "",
+            "map": 0,
+            "ipsc_network": "RCE"
+        }
+    ]
+}
+

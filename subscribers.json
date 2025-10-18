@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "name": "arf20",
+            "fname": "Angel Ruiz Fernandez",
+            "country": "Spain",
+            "callsign": "EA5JGX",
+            "city": "Barcelona",
+            "surname": "",
+            "radio_id": 2145001,
+            "id": 2145001,
+            "state": "Murcia",
+            "has_valid_callsign": "1",
+            "has_valid_email": 1
+        }
+    ]
+}
+
