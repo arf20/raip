@@ -3,7 +3,7 @@
 ## Architecture
 
  - Host `comm` (dmr.arf20.com) at ARFNET runs [HBlink3](https://github.com/HBLink-org/hblink3) acting as the single network Master server
- - Members run MMDVM Hotspots running [DMRGateway](https://github.com/g4klx/DMRGateway) connecting as clients to the Master
+ - Members run MMDVM Hotspots running [DMRGateway](https://github.com/g4klx/DMRGateway) (inside Pi-Star or WPSD) connecting as clients to the Master
 
 ## ID Database
 
