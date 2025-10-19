@@ -1,4 +1,4 @@
-# EC3RCE DMR Network
+# EC5RCE DMR Network
 
 ## Architecture
 
@@ -33,7 +33,7 @@ Password="redacted"
 Id=21431
 Debug=0
 Location=0
-Name=EC3RCE DMR Net
+Name=EC5RCE DMR Net
 TGRewrite0=1,899,1,99,1
 TGRewrite1=1,89990,1,9990,1
 TGRewrite2=1,84000,1,4000,1
